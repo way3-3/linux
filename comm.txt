@@ -2,4 +2,4 @@
  mkdir -p {a,b,c}/{d,e,f} 
  touch {a,b,c}/{d,e,f}/{g.txt,h.txt,i.txt}  
  rm {a,b,c}/{d,e,f}/{g.txt,h.txt,i.txt}  
- 
+ rm -r a b c 
