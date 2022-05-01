@@ -1,0 +1,2 @@
+sudo umount -f thinclient_drives
+after that, you must rename the thinclient_drives to .thinclient_drives
